@@ -1,0 +1,120 @@
+{
+    "providerName": "Adtention",
+    "lastUpdated": "2018-12-3T10:38:28+00:00",
+    "language": "en",
+    "movies": [{
+        "id": "historyofpoker",
+        "title": "History Of Poker",
+        "content":[{
+            "dateAdded": "2016-03-03T12:35:13+00:00",
+            "videos": [{
+                "url": "http://mirrors.standaloneinstaller.com/video-sample/star_trails.mov",
+                "quality": "HD",
+                "videoType": "MOV",
+                "bitrate": "1900"
+            }]
+        }],
+        "genres": [
+            "educational",
+            "horror"
+            ],
+        "thumbnail": "http://www.tvbydemand.com/images/bonanza.JPG",
+        "releaseDate": "1959-11-09",
+        "shortDescription": "Incredible movie description",
+        "longDescription": "Even more incredible and longer movie description"
+    },
+    {
+        "id": "historyofblackjack",
+        "title": "History Of Blackjack",
+        "content":[{
+            "dateAdded": "2016-03-03T12:35:13+00:00",
+            "videos": [{
+                "url": "http://mirrors.standaloneinstaller.com/video-sample/star_trails.mov",
+                "quality": "HD",
+                "videoType": "MOV",
+                "bitrate": "1900"
+            }]
+        }],
+        "genres": [
+            "educational",
+            "horror"
+            ],
+        "thumbnail": "http://www.tvbydemand.com/images/bonanza.JPG",
+        "releaseDate": "1959-11-09",
+        "shortDescription": "Incredible movie description",
+        "longDescription": "Even more incredible and longer movie description"
+    }],
+    "series": [{
+        "id": "2",
+        "title": "Bonanza",
+        "seasons": [{
+            "seasonNumber": 1,
+            "episodes": [{
+                "id": "2085",
+                "title": "S1E12 The Hanging Posse",
+                "content": {
+                    "dateAdded": "2016-03-03T12:35:13+00:00",
+                    "videos": [{
+                        "url": "http://www.tvbydemand.com..................shed.ism/manifest",
+                        "quality": "SD",
+                        "videoType": "SMOOTH"
+                    }],
+                    "duration": 3623
+                },
+                "thumbnail": "http://www.tvbydemand.com/images/bonanza.JPG",
+                "episodeNumber": 12,
+                "releaseDate": "1959-11-09",
+                "shortDescription": "S1E12 The Hanging Posse"
+            },
+            {
+            "id": "2085",
+            "title": "S1E12 The Hanging Posse",
+            "content": {
+                "dateAdded": "2016-03-03T12:35:13+00:00",
+                "videos": [{
+                    "url": "http://www.tvbydemand.com..................shed.ism/manifest",
+                    "quality": "SD",
+                    "videoType": "SMOOTH"
+                }],
+                "duration": 3623
+            },
+            "thumbnail": "http://www.tvbydemand.com/images/bonanza.JPG",
+            "episodeNumber": 12,
+            "releaseDate": "1959-11-09",
+            "shortDescription": "S1E12 The Hanging Posse"
+        }]
+        }],
+        "genres": ["comedy"],
+        "thumbnail": "http://www.tvbydemand.com/images/bonanza.jpg",
+        "releaseDate": "1952-01-01",
+        "shortDescription": "Bonanza"
+    },
+    {
+        "id": "4",
+        "title": "Bonanza",
+        "seasons": [{
+            "seasonNumber": 1,
+            "episodes": [{
+                "id": "2085",
+                "title": "S1E12 The Hanging Posse",
+                "content": {
+                    "dateAdded": "2016-03-03T12:35:13+00:00",
+                    "videos": [{
+                        "url": "http://www.tvbydemand.com..................shed.ism/manifest",
+                        "quality": "SD",
+                        "videoType": "SMOOTH"
+                    }],
+                    "duration": 3623
+                },
+                "thumbnail": "http://www.tvbydemand.com/images/bonanza.JPG",
+                "episodeNumber": 12,
+                "releaseDate": "1959-11-09",
+                "shortDescription": "S1E12 The Hanging Posse"
+            }]
+        }],
+        "genres": ["comedy"],
+        "thumbnail": "http://www.tvbydemand.com/images/bonanza.jpg",
+        "releaseDate": "1952-01-01",
+        "shortDescription": "Bonanza"
+    }]
+}
